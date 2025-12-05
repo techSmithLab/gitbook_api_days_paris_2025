@@ -100,43 +100,6 @@ info:
     This API is for demo purposes only — **don’t** use it in production.
 
     {% endhint %}
-x-gitbook-description-html: >-
-    <h2>Petstore</h2><p>Welcome to the Petstore API Documentation Template! This
-    is a starting point for creating clear, interactive, and user-friendly API
-    documentation.</p><p>Use this template to explore best practices in
-    structuring your docs, showcasing endpoints, and guiding users through your
-    API. Everything here can be adapted to fit your own product.</p><div
-    data-gb-custom-block data-tag="hint" data-style="info" class="hint
-    hint-info"><p><strong>Why this demo?</strong><br>This template shows
-    automatically generated docs from an OpenAPI spec. It uses <a
-    href="https://gitbook.com/docs/extensions-reference">Gitbook-specific Open
-    API extensions</a> to create a rich, interactive experience.</p></div><div
-    data-gb-custom-block data-tag="tabs"><div data-gb-custom-block
-    data-tag="tab" data-title="Production"><p><strong>Base
-    URL</strong><br><code>https://petstore.example.com/v1</code></p></div><div
-    data-gb-custom-block data-tag="tab" data-title="Staging"><p><strong>Base
-    URL</strong><br><code>https://staging.petstore.example.com/v1</code></p></div></div><h3>Getting
-    Started</h3><div data-gb-custom-block data-tag="stepper"><div
-    data-gb-custom-block data-tag="step"><h3>Create an account</h3><p>Sign up
-    for a free account at <a
-    href="https://petstore.example.com">petstore.example.com</a>.</p></div><div
-    data-gb-custom-block data-tag="step"><h3>Get your API key</h3><p>Sign in to
-    the Petstore console and copy your key.</p></div><div data-gb-custom-block
-    data-tag="step"><h3>Make your first request</h3><p>Call the GET /pets
-    endpoint to check connectivity.</p></div></div><h3>Learn more</h3><table
-    data-view="cards"><thead><tr><th></th><th></th><th data-hidden
-    data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden
-    data-card-target
-    data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Documentation</strong></td><td>Everything
-    you need to know about the
-    product</td><td></td><td></td><td></td></tr><tr><td><strong>Changelog</strong></td><td>See
-    what’s new and
-    improved</td><td></td><td></td><td></td></tr><tr><td><strong>Community</strong></td><td>Connect
-    with other users and
-    contributors</td><td></td><td></td><td></td></tr></tbody></table><div
-    data-gb-custom-block data-tag="hint" data-style="warning" class="hint
-    hint-warning"><p>This API is for demo purposes only — <strong>don’t</strong>
-    use it in production.</p></div>
 servers:
   - url: https://petstore.example.com/v1
 tags:
