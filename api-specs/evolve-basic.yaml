@@ -2,14 +2,10 @@ openapi: 3.0.3
 info:
   title: Evolve Payments API
   description: |
-    # Payments API
+    # Evolve Payments API
     Modern payment processing API for SaaS companies. Accept payments, manage customers, and handle refunds with ease.
-    
-    ## Authentication
-    All API requests require authentication using an API key passed in the Authorization header as a Bearer token.
-    
-    ## Base URL
-    All API requests should be made to: `https://api.evolvepayments.com/v1`
+    **Authentication**: All API requests require authentication using an API key passed in the Authorization header as a Bearer token.
+    **Base URL**: All API requests should be made to: `https://api.evolvepayments.com/v1`
   version: 1.0.0
   contact:
     name: Evolve Payments Support
