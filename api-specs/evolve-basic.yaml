@@ -113,10 +113,10 @@ paths:
                   description: Three-letter ISO currency code
                   example: usd
                   enum: [usd, eur, gbp]
-                  x-enumDescriptions:
-                    usd: US Dollar
-                    eur: Euro
-                    gbp: British Pound
+                  # x-enumDescriptions:
+                  #   usd: US Dollar
+                  #   eur: Euro
+                  #   gbp: British Pound
                 customer_id:
                   type: string
                   description: ID of an existing customer
