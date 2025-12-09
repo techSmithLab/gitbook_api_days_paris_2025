@@ -1,4 +1,7 @@
 ---
+description: >-
+  Follow a guided path to accept your first payment with Evolve Payments and
+  discover where to go next in the documentation.
 metaLinks:
   alternates:
     - >-

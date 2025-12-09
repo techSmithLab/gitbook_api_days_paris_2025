@@ -1,4 +1,7 @@
 ---
+description: >-
+  Understand how your team uses Evolve Payments with analytics on API calls,
+  dashboard activity, and feature adoption.
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/N5k8pHgqDB1McsDpSWlO/product/usage-insights

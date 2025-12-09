@@ -1,4 +1,7 @@
 ---
+description: >-
+  Turn raw transaction data into automated financial reports, schedule delivery
+  to your team, and track key revenue and performance metrics.
 metaLinks:
   alternates:
     - https://app.gitbook.com/s/N5k8pHgqDB1McsDpSWlO/product/reporting

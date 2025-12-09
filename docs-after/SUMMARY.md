@@ -18,10 +18,10 @@
 ## API
 
 * ```yaml
-  type: builtin:openapi
   props:
     models: true
     downloadLink: false
+  type: builtin:openapi
   dependencies:
     spec:
       ref:
