@@ -19,7 +19,7 @@ This guide walks you through a basic Evolve Payments integrationfrom setting up
 **Test Mode Setup:**
 
 {% hint style="warning" %}
-Make sure to swap in your real API key below
+Make sure to swap in your real API key below.
 {% endhint %}
 
 ```
