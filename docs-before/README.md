@@ -9,11 +9,9 @@ coverY: 0
 
 # Evolve Payments
 
-<h2 align="center">Evolve Payments Documentation</h2>
+### Meet the next-generation payments platform for teams at scale.
 
-<p align="center">Meet the next-generation payments platform for teams at scale.</p>
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h2><strong>Quickstart</strong></h2></td><td>Set up your account in minutes</td><td><a href="getting-started/quickstart.md">quickstart.md</a></td><td><a href=".gitbook/assets/Card-12.png">Card-12.png</a></td></tr><tr><td><h2>Collect your first payment</h2></td><td>Learn how to collect your first payment</td><td><a href="getting-started/collect-your-first-payment.md">collect-your-first-payment.md</a></td><td><a href=".gitbook/assets/Card-14.png">Card-14.png</a></td></tr><tr><td><h2>API docs</h2></td><td>Get started with Evolve Payments' API </td><td><a href="https://app.gitbook.com/o/X9uddHR2nO73YvXdCY0t/s/uBtQCmrTBT0sn5qIsAPe/">API Reference</a></td><td><a href=".gitbook/assets/Card-11.png">Card-11.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><h3><strong>Quickstart</strong></h3></td><td>Set up your account in minutes</td><td><a href="getting-started/quickstart.md">quickstart.md</a></td><td><a href=".gitbook/assets/Card-12.png">Card-12.png</a></td></tr><tr><td><h3>Collect your first payment</h3></td><td>Learn how to collect your first payment</td><td><a href="getting-started/collect-your-first-payment.md">collect-your-first-payment.md</a></td><td><a href=".gitbook/assets/Card-14.png">Card-14.png</a></td></tr><tr><td><h3>API docs</h3></td><td>Get started with Evolve Payments' API</td><td><a href="https://app.gitbook.com/o/X9uddHR2nO73YvXdCY0t/s/uBtQCmrTBT0sn5qIsAPe/">API Reference</a></td><td><a href=".gitbook/assets/Card-11.png">Card-11.png</a></td></tr></tbody></table>
 
 <h4 id="learn-more" align="center">Learn more</h4>
 
