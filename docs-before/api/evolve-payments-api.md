@@ -7,18 +7,18 @@ description: >-
 # Evolve Payments API
 
 {% openapi-operation spec="evolve-payments-apidays-api" path="/payments" method="post" %}
-[OpenAPI evolve-payments-apidays-api](https://github.com/GitbookIO/api_days_paris_2025/raw/refs/heads/main/api-specs/evolve-basic-before.yaml)
+[Broken link](/broken/openapi/evolve-payments-apidays-api)
 {% endopenapi-operation %}
 
 {% openapi-operation spec="evolve-payments-apidays-api" path="/payments/{id}" method="get" %}
-[OpenAPI evolve-payments-apidays-api](https://github.com/GitbookIO/api_days_paris_2025/raw/refs/heads/main/api-specs/evolve-basic-before.yaml)
+[Broken link](/broken/openapi/evolve-payments-apidays-api)
 {% endopenapi-operation %}
 
 {% openapi-schemas spec="evolve-payments-apidays-api" schemas="Payment" grouped="true" %}
-[OpenAPI evolve-payments-apidays-api](https://github.com/GitbookIO/api_days_paris_2025/raw/refs/heads/main/api-specs/evolve-basic-before.yaml)
+[Broken link](/broken/openapi/evolve-payments-apidays-api)
 {% endopenapi-schemas %}
 
-## &#x20;Payments API <a href="#evolve-payments-api" id="evolve-payments-api"></a>
+## Payments API <a href="#evolve-payments-api" id="evolve-payments-api"></a>
 
 The Evolve Payments API lets you securely create and manage payments from your own applications. Use it to charge customers, issue refunds, manage disputes, and pull reporting data without leaving your existing tools.
 
@@ -52,3 +52,19 @@ To get up and running quickly, start with the onboarding guides:
 For detailed endpoint descriptions, request/response schemas, and error codes, see the full [Evolve Payments API reference](https://app.gitbook.com/o/X9uddHR2nO73YvXdCY0t/s/uBtQCmrTBT0sn5qIsAPe/).
 
 <br>
+
+{% openapi-operation spec="gitbook-api-days-paris-2025" path="/payments" method="post" %}
+[OpenAPI gitbook-api-days-paris-2025](https://github.com/techSmithLab/gitbook_api_days_paris_2025/raw/refs/heads/main/api-specs/evolve-basic-before.yaml)
+{% endopenapi-operation %}
+
+{% openapi-operation spec="gitbook-api-days-paris-2025" path="/payments/{id}" method="get" %}
+[OpenAPI gitbook-api-days-paris-2025](https://github.com/techSmithLab/gitbook_api_days_paris_2025/raw/refs/heads/main/api-specs/evolve-basic-before.yaml)
+{% endopenapi-operation %}
+
+{% openapi-operation spec="gitbook-api-days-paris-2025" path="/payments/{id}/refund" method="post" %}
+[OpenAPI gitbook-api-days-paris-2025](https://github.com/techSmithLab/gitbook_api_days_paris_2025/raw/refs/heads/main/api-specs/evolve-basic-before.yaml)
+{% endopenapi-operation %}
+
+{% openapi-schemas spec="gitbook-api-days-paris-2025" schemas="Payment" grouped="true" %}
+[OpenAPI gitbook-api-days-paris-2025](https://github.com/techSmithLab/gitbook_api_days_paris_2025/raw/refs/heads/main/api-specs/evolve-basic-before.yaml)
+{% endopenapi-schemas %}
