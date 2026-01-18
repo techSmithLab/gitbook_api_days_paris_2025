@@ -6,18 +6,6 @@ description: >-
 
 # Evolve Payments API
 
-{% openapi-operation spec="evolve-payments-apidays-api" path="/payments" method="post" %}
-[Broken link](/broken/openapi/evolve-payments-apidays-api)
-{% endopenapi-operation %}
-
-{% openapi-operation spec="evolve-payments-apidays-api" path="/payments/{id}" method="get" %}
-[Broken link](/broken/openapi/evolve-payments-apidays-api)
-{% endopenapi-operation %}
-
-{% openapi-schemas spec="evolve-payments-apidays-api" schemas="Payment" grouped="true" %}
-[Broken link](/broken/openapi/evolve-payments-apidays-api)
-{% endopenapi-schemas %}
-
 ## Payments API <a href="#evolve-payments-api" id="evolve-payments-api"></a>
 
 The Evolve Payments API lets you securely create and manage payments from your own applications. Use it to charge customers, issue refunds, manage disputes, and pull reporting data without leaving your existing tools.

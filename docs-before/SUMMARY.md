@@ -22,13 +22,13 @@
 ***
 
 * ```yaml
+  type: builtin:openapi
   props:
     models: true
     downloadLink: true
-  type: builtin:openapi
   dependencies:
     spec:
       ref:
         kind: openapi
-        spec: evolve-payments-apidays-api
+        spec: gitbook-api-days-paris-2025
   ```
